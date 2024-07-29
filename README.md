@@ -1,6 +1,6 @@
 # Magic Economy Bot
 
-Simple discord economy bot based on reactions
+Discord economy based on reactions, with minigames and stuff
 
 It uses SQLite3 as DB
 
